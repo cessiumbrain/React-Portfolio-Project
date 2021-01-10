@@ -1,0 +1,30 @@
+
+body {
+  background-image: url("https://images.pexels.com/photos/1061623/pexels-photo-1061623.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
+  background-position: center;
+  background-size: cover;
+  font-family: 'Barlow';
+}
+
+footer {
+  background: rgb(94,94,94);
+background: linear-gradient(0deg, rgba(94,94,94,1) 0%, rgba(143,143,143,0.47328125) 48%, rgba(0,212,255,0) 100%);
+}
+
+form {
+  background-color: rgba(143,143,143,0.6);
+}
+
+
+.form-group {
+  padding: 20px;
+}
+
+.carousel-inner {
+  width: 100%;
+  height: 75vh;
+}
+
+.bottom-margin {
+  margin-bottom: 25vh;
+}
